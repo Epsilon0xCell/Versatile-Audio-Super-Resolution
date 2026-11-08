@@ -1,3 +1,7 @@
+![Banner: a reel to reel tape machine on a restoration bench under a bright bench lamp, the left reel holding dull loosely wound tape and the right reel a neat gleaming pack, cleaning pads, swabs, bottles and brushes laid in order beside it](banner.png)
+
+<p align="center"><img src="logo.png" alt="Versatile-Audio-Super-Resolution logo: two aluminium tape reels against studio black with brown tape running taut between them and one amber VU meter glowing below them, its dial marked VU, the scene set inside a black disc" width="200"></p>
+
 
 # AudioSR: Versatile Audio Super-resolution at Scale
 
